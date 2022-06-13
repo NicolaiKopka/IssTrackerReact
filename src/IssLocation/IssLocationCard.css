@@ -1,0 +1,24 @@
+.card-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 300px;
+
+}
+
+.iss-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #61dafb;
+    width: 900px;
+    height: 300px;
+    font-size: 3rem;
+    border: 2px none white;
+    border-radius: 20px;
+    box-shadow: 7px 10px 5px #b5bfc9;
+}
+
+.iss-info-element {
+    padding: 1rem;
+}
